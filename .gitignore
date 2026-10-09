@@ -1,0 +1,10 @@
+*.apk
+*.idsig
+*.jks
+*.keystore
+*.log
+decoded/
+build/
+dist/
+__pycache__/
+release-notes.md
